@@ -1,0 +1,16 @@
+{
+  "name": "RRP",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node main"
+  },
+  "dependencies": {
+
+    "bleacon": "*",
+    "cloudant" : "*",
+    "omxdirector" : "*",
+    "rpi-gpio" : "*"
+
+  }
+}
